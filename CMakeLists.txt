@@ -10,8 +10,6 @@ include(KDECompilerSettings NO_POLICY_SCOPE)
 include(KDECMakeSettings)
 
 find_package(Qt6 6.6 REQUIRED COMPONENTS Qml Quick)
-find_package(KF6Plasma REQUIRED)
-find_package(KF6I18n REQUIRED)
 
 add_subdirectory(src)
 

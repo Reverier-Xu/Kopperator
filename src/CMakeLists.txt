@@ -7,7 +7,6 @@ target_link_libraries(kopperatorplugin
     PRIVATE
         Qt6::Qml
         Qt6::Quick
-        KF6::I18n
 )
 
 set_target_properties(kopperatorplugin PROPERTIES
