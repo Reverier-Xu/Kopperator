@@ -1,0 +1,3 @@
+module org.reverier.kopperator
+plugin kopperatorplugin
+classname KopperatorPlugin

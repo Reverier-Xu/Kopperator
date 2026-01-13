@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "reverier@example.com",
+                "Name": "Reverier Xu"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "AI chat applet rendered with KDE Markdown",
+        "Icon": "applications-system",
+        "Id": "org.reverier.kopperator",
+        "License": "GPL-3.0-or-later",
+        "Name": "Kopperator",
+        "Version": "0.1.0"
+    },
+    "X-KDE-PluginInfo-EnabledByDefault": true,
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-RootPath": "org.reverier.kopperator"
+}
