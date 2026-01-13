@@ -1,4 +1,8 @@
 # Kopperator
+
+> [!WARNING]
+> ## It is just a vibe-coding shit currently, not valid for daily use.
+
 KDE Plasma 6 plasmoid that surfaces an AI chat experience. Messages are rendered with KDE's Markdown renderer so bold, lists and code snippets are preserved.
 
 ## Building and installing
